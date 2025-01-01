@@ -17,10 +17,10 @@ RESTful API design and implementation
 Working with file systems and data handling
 
 ## 🚀 Technologies Used
-Node.js
-Express.js
-MongoDB (or other databases)
-JavaScript (ES6)
+Node.js <br>
+Express.js<br>
+MongoDB (or other databases)<br>
+JavaScript (ES6)<br>
 JWT / Session Authentication
 
 This repository is a reflection of my learning journey through backend development with Node.js, demonstrating how to create scalable and secure server-side applications.
